@@ -1,0 +1,19 @@
+[
+    {
+        "Project_Name": "aa",
+        "Version": "0.0.1",
+        "Device": [
+            {
+                "Id": 1,
+                "Device_name": "bb",
+                "IP_Adress": "",
+                "Port_number": "0",
+                "Username": "",
+                "Password": "",
+                "src_path": "",
+                "dest_path": "",
+                "ignore_list": []
+            }
+        ]
+    }
+]

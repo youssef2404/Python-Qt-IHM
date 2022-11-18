@@ -1,0 +1,77 @@
+[
+    {
+        "Project_Name": "project3",
+        "Version": "0.0.1",
+        "Device": [
+            {
+                "Id": 1,
+                "Device_name": "dev",
+                "IP_Adress": "169.254.80.171",
+                "Port_number": 22,
+                "Username": "pi",
+                "Password": "z76oz8",
+                "src_path": "C:/Users/MSI/Desktop/Edge_Box_Project/Edge_Box/ui_files",
+                "dest_path": "/home/pi/EdgeBoxProject",
+                "ignore_list": [
+                    "parametres_avances_interface.py",
+                    "Project.ui",
+                    "tab_interface.ui"
+                ]
+            },
+            {
+                "Id": 2,
+                "Device_name": "dev1",
+                "IP_Adress": "127.0.0.1",
+                "Port_number": 1,
+                "Username": "frr",
+                "Password": "frr",
+                "src_path": "C:/Users/MSI/Desktop/Edge_Box_Project/Edge_Box/ui_files",
+                "dest_path": "dddd",
+                "ignore_list": [
+                    "tab_interface.ui"
+                ]
+            },
+            {
+                "Id": 3,
+                "Device_name": "dev0",
+                "IP_Adress": "youssef",
+                "Port_number": 2,
+                "Username": "tggrt",
+                "Password": "rgtt",
+                "src_path": "C:/Users/MSI/Desktop/Edge_Box_Project/Edge_Box/ui_files",
+                "dest_path": "tgrtt",
+                "ignore_list": [
+                    "parametres_avances.ui",
+                    "Project.ui",
+                    "tab_interface.ui"
+                ]
+            },
+            {
+                "Id": 4,
+                "Device_name": "dev8",
+                "IP_Adress": "192.168.1.5",
+                "Port_number": 3,
+                "Username": "ddd",
+                "Password": "fff",
+                "src_path": "C:/Users/MSI/Desktop/Edge_Box_Project/Edge_Box/ui_files",
+                "dest_path": "ddd",
+                "ignore_list": [
+                    "parametres_avances.ui",
+                    "Project.ui",
+                    "tab_interface.ui"
+                ]
+            },
+            {
+                "Id": 5,
+                "Device_name": "dev6",
+                "IP_Adress": "ddd",
+                "Port_number": 1,
+                "Username": "ggg",
+                "Password": "cccc",
+                "src_path": "",
+                "dest_path": "",
+                "ignore_list": []
+            }
+        ]
+    }
+]
